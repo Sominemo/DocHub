@@ -3,7 +3,7 @@
 
 var app = {
     lang: "en",
-    build: 98,
+    build: 100,
     version: "1.10",
     link: window.location.protocol + "//" + window.location.host + window.location.pathname,
     languages: "res/lang/",
