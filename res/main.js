@@ -5,7 +5,7 @@ var app = {
     lang: "en",
     build: 98,
     version: "1.10",
-    link: "https://sominemo.github.io/Temply-Account/dochub/",
+    link: window.location.protocol + "//" + window.location.host + window.location.pathname,
     languages: "res/lang/",
     data: "../data/",
     copying: false,
